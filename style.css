@@ -1,0 +1,16 @@
+h1{
+    background-color: rgb(90, 218, 158);
+    color: #fff;
+    padding: 20px;
+    align-content: center;
+}
+h2{
+    background-color: rgb(206, 181, 41);
+    color: #fff;
+    padding: 20px;
+    align-content: center;
+}
+table th, td{
+     border: 2px solid black;
+     padding: 15px;
+ }
